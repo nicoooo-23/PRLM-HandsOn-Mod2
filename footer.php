@@ -1,0 +1,1 @@
+<footer>Created by: Nicole Rivera &copy; 2025</footer>
